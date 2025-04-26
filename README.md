@@ -1,4 +1,4 @@
-Tentu! Berikut contoh kata-kata pengantar yang bisa kamu gunakan untuk file `README.md`:
+`README.md`:
 
 ---
 
